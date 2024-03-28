@@ -13,7 +13,14 @@ Hello! My name is **Ivan Login**, and I'm a **junior web developer** specializin
 ## My Projects 🏋️🏅
 In my projects, I demonstrate the ability to work with the DOM, create interactive user interfaces, and interact with the backend for data processing:
 
-👀- [Project 1](#) 
+![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/1a302725-8d29-4838-b3fd-71a37b57379b)
+![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/12b70f67-3648-44ed-9a34-5df31910649f)
+![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/9a4cc959-a155-426b-83aa-8a9a3de4440b)
+![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/8814465e-c22c-4a25-9fba-3d10192b2630)
+
+
+👀- [Project "async/await. Pagination"](https://github.com/VanoLogin/goit-js-hw-12)  
+
 👀- [Project 2](#) 
 👀- [Project 3](#) 
 👀- [Project 3](#) 
