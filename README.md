@@ -23,7 +23,7 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 
 👀- [Project "Barbershop"](https://github.com/VanoLogin/barbershop_by_Login) 
 
-👀- [Project "Card game"](https://vanologin.github.io/card-Game/) 
+👀- [Project "Card game"]((https://github.com/VanoLogin/barbershop_by_Login)) 
 
 👀- [Project 3](#) 
 
