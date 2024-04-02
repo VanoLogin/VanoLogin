@@ -18,7 +18,10 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/9a4cc959-a155-426b-83aa-8a9a3de4440b)
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/8814465e-c22c-4a25-9fba-3d10192b2630)
 
-👀- [Project "My own Postman"](https://github.com/VanoLogin/PostMan) 
+👀- [Project "My own Postman"](https://github.com/VanoLogin/PostMan)
+![image]([https://github.com/VanoLogin/VanoLogin/assets/116017080/8814465e-c22c-4a25-9fba-3d10192b2630](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-sgkuq&psig=AOvVaw0TQk1sW5danMAzXnl7cdwp&ust=1712149032026000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjO_KnKo4UDFQAAAAAdAAAAABAE))
+
+
 
 👀- [Project "Barbershop"](https://github.com/VanoLogin/barbershop_by_Login) 
 
@@ -27,6 +30,8 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 👀- [Project "Card game"](https://github.com/VanoLogin/card-Game)
 
 👀- [Project "To Do list"](https://github.com/VanoLogin/To-do-list) 
+
+👀- [Project "WebStudio"](https://vanologin.github.io/goit-markup-hw-08/index.html) 
 
 
 
