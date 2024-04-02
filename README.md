@@ -18,20 +18,33 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/9a4cc959-a155-426b-83aa-8a9a3de4440b)
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/8814465e-c22c-4a25-9fba-3d10192b2630)
 
-👀- [Project "My own Postman"](https://github.com/VanoLogin/PostMan) ### js
+#### js html + css
 
-👀- [Project "MomyShop"](https://github.com/VanoLogin/PostMan) ### js
+👀- [Project "My own Postman"](https://github.com/VanoLogin/PostMan) 
 
+#### js html + css
 
-👀- [Project "Barbershop"](https://github.com/VanoLogin/barbershop_by_Login) ### html + css
+👀- [Project "MomyShop"](https://github.com/VanoLogin/PostMan) 
 
-👀- [Project "async/await. Pagination"](https://github.com/VanoLogin/goit-js-hw-12)  ### js
+#### html + css
 
-👀- [Project "Card game"](https://github.com/VanoLogin/card-Game) ### js
+👀- [Project "Barbershop"](https://github.com/VanoLogin/barbershop_by_Login) 
 
-👀- [Project "To Do list"](https://github.com/VanoLogin/To-do-list)  ### js
+#### js html + css
 
-👀- [Project "WebStudio"](https://vanologin.github.io/goit-markup-hw-08/index.html) ### htm + css
+👀- [Project "async/await. Pagination"](https://github.com/VanoLogin/goit-js-hw-12) 
+
+#### js
+ 
+👀- [Project "Card game"](https://github.com/VanoLogin/card-Game) 
+
+#### js
+ 
+👀- [Project "To Do list"](https://github.com/VanoLogin/To-do-list) 
+
+#### htm + css
+
+👀- [Project "WebStudio"](https://vanologin.github.io/goit-markup-hw-08/index.html) 
 
 
 
