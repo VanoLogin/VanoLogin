@@ -25,7 +25,7 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 
 👀- [Project "Card game"](https://github.com/VanoLogin/card-Game)
 
-👀- [Project 3](#) 
+👀- [Project "To Do list"](https://github.com/VanoLogin/To-do-list) 
 
 👀- [Project 3](#) 
 
