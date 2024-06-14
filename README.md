@@ -24,7 +24,7 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 
 #### js html + css
 
-👀- [Project "MomyShop"](https://github.com/VanoLogin/PostMan) 
+👀- [Project "MomyShop"](https://vanologin.github.io/Momyshop/) 
 
 #### html + css
 
