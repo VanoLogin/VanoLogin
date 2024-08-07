@@ -20,11 +20,11 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 
 #### js html + css
 
-👀- [Project "My own Postman"](https://vanologin.github.io/project-group-19/) 
+👀- [Project "My own Postman"](https://github.com/VanoLogin/PostMan) 
 
 #### js html + css
 
-👀- [Project "Web-developer Portfolio"](https://github.com/VanoLogin/PostMan) 
+👀- [Project "Web-developer Portfolio"](https://vanologin.github.io/project-group-19/) 
 
 
 #### js html + css
