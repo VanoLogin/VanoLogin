@@ -26,48 +26,56 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 
 
 
+:sparkles:
+#### js + nodeJS 
 
+:rocket:- [Project "Backend for contacts book"](https://github.com/VanoLogin/nodejs-contacts-mongodb)
 
-
-
+:sparkles:
 #### js + nodeJS 
 
 :rocket:- [Project "Backend for water tracker"](https://github.com/VanoLogin/Project-Water-Tracker-backend)
 
 
-
+:sparkles:
 #### js html + css
 
-👀- [Project "My own Postman"](https://github.com/VanoLogin/PostMan) 
+:rocket:- [Project "My own Postman"](https://github.com/VanoLogin/PostMan) 
 
+:sparkles:
 #### js html + css
 
-👀- [Project "Web-developer Portfolio"](https://vanologin.github.io/project-group-19/) 
+:rocket:- [Project "Web-developer Portfolio"](https://vanologin.github.io/project-group-19/) 
 
-
+:sparkles:
 #### js html + css
 
-👀- [Project "MomyShop"](https://vanologin.github.io/Momyshop/) 
+:rocket:- [Project "MomyShop"](https://vanologin.github.io/Momyshop/) 
 
+:sparkles:
 #### html + css
 
-👀- [Project "Barbershop"](https://github.com/VanoLogin/barbershop_by_Login) 
+:rocket:- [Project "Barbershop"](https://github.com/VanoLogin/barbershop_by_Login) 
 
+:sparkles:
 #### js html + css
 
-👀- [Project "async/await. Pagination"](https://github.com/VanoLogin/goit-js-hw-12) 
+:rocket:- [Project "async/await. Pagination"](https://github.com/VanoLogin/goit-js-hw-12) 
 
+:sparkles:
 #### js
  
-👀- [Project "Card game"](https://github.com/VanoLogin/card-Game) 
+:rocket:- [Project "Card game"](https://github.com/VanoLogin/card-Game) 
 
+:sparkles:
 #### js
  
-👀- [Project "To Do list"](https://github.com/VanoLogin/To-do-list) 
+:rocket:- [Project "To Do list"](https://github.com/VanoLogin/To-do-list) 
 
+:sparkles:
 #### htm + css
 
-👀- [Project "WebStudio"](https://vanologin.github.io/goit-markup-hw-08/index.html) 
+:rocket:- [Project "WebStudio"](https://vanologin.github.io/goit-markup-hw-08/index.html) 
 
 
 
