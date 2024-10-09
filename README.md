@@ -20,6 +20,10 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 <img src="https://github.com/user-attachments/assets/0e983383-0600-4293-b6f5-7e5df1b51290" alt="Описание" width="100"/>
 <img src="https://github.com/user-attachments/assets/dabace68-679a-4e83-9afd-563760d0b3c2" alt="Описание" width="100"/>
 <img src="https://github.com/user-attachments/assets/34ec75a4-2a04-4dde-b471-54a0bcd1edb5" alt="Описание" width="100"/>
+<img src="https://github.com/user-attachments/assets/5b2634aa-3d47-4dae-babe-9e59c82273cf" alt="Описание" width="100"/>
+
+
+
 
 
 
