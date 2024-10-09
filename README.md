@@ -17,6 +17,8 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/12b70f67-3648-44ed-9a34-5df31910649f)
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/9a4cc959-a155-426b-83aa-8a9a3de4440b)
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/8814465e-c22c-4a25-9fba-3d10192b2630)
+![image]([https://github.com/VanoLogin/VanoLogin/assets/116017080/8814465e-c22c-4a25-9fba-3d10192b2630](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodenameuriel28.medium.com%2Fnode-js-and-its-event-driven-architecture-2ea4a520f6fa&psig=AOvVaw28YJNk_L3Q1a4_4IIM9IKP&ust=1728554678595000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC3oY-GgYkDFQAAAAAdAAAAABAE))
+
 
 #### js html + css
 
