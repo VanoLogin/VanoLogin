@@ -17,7 +17,7 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/12b70f67-3648-44ed-9a34-5df31910649f)
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/9a4cc959-a155-426b-83aa-8a9a3de4440b)
 ![image](https://github.com/VanoLogin/VanoLogin/assets/116017080/8814465e-c22c-4a25-9fba-3d10192b2630)
-![image](![image](https://github.com/user-attachments/assets/74018ed5-096a-4915-9d99-6ad2353875cd)
+![image](https://github.com/user-attachments/assets/74018ed5-096a-4915-9d99-6ad2353875cd)
 )
 
 
