@@ -32,7 +32,7 @@ In my projects, I demonstrate the ability to work with the DOM, create interacti
 
 #### js + nodeJS 
 
-👀- [Project "Backend for water tracker"]([https://github.com/VanoLogin/PostMan](https://github.com/VanoLogin/Project-Water-Tracker-backend)) 
+:rocket:- [Project "Backend for water tracker"](https://github.com/VanoLogin/Project-Water-Tracker-backend)
 
 
 
