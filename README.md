@@ -18,7 +18,7 @@ Hello! My name is **Ivan Login**, and I'm a **Junior Fullstack Developer** speci
 I am constantly learning, keeping up with the latest trends in development and applying new knowledge in practice. Participating in developer communities and attending relevant conferences helps me stay at the forefront of technological progress.
 
 ## In progress 🏃
-I am studying react...
+I am studying NestJs...
 
 ## Contact 📟
 If you have any questions or would like to discuss a collaboration, feel free to contact me:
