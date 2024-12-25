@@ -14,64 +14,6 @@ Hello! My name is **Ivan Login**, and I'm a **Junior Fullstack Developer** speci
 <img src="https://github.com/user-attachments/assets/34ec75a4-2a04-4dde-b471-54a0bcd1edb5" alt="Описание" width="130"/>
 <img src="https://github.com/user-attachments/assets/5b2634aa-3d47-4dae-babe-9e59c82273cf" alt="Описание" width="130"/>
 
-
-
-## My Projects 🏋️🏅
-In my projects, I demonstrate the ability to work with the DOM, create interactive user interfaces, and interact with the backend for data processing:
-
-:sparkles:
-#### js + nodeJS 
-
-:rocket:- [Project "Backend for contacts book"](https://github.com/VanoLogin/nodejs-contacts-mongodb)
-
-:sparkles:
-#### js + nodeJS 
-
-:rocket:- [Project "Backend for water tracker"](https://github.com/VanoLogin/Project-Water-Tracker-backend)
-
-
-:sparkles:
-#### js html + css
-
-:rocket:- [Project "My own Postman"](https://github.com/VanoLogin/PostMan) 
-
-:sparkles:
-#### js html + css
-
-:rocket:- [Project "Web-developer Portfolio"](https://vanologin.github.io/project-group-19/) 
-
-:sparkles:
-#### js html + css
-
-:rocket:- [Project "MomyShop"](https://vanologin.github.io/Momyshop/) 
-
-:sparkles:
-#### html + css
-
-:rocket:- [Project "Barbershop"](https://github.com/VanoLogin/barbershop_by_Login) 
-
-:sparkles:
-#### js html + css
-
-:rocket:- [Project "async/await. Pagination"](https://github.com/VanoLogin/goit-js-hw-12) 
-
-:sparkles:
-#### js
- 
-:rocket:- [Project "Card game"](https://github.com/VanoLogin/card-Game) 
-
-:sparkles:
-#### js
- 
-:rocket:- [Project "To Do list"](https://github.com/VanoLogin/To-do-list) 
-
-:sparkles:
-#### htm + css
-
-:rocket:- [Project "WebStudio"](https://vanologin.github.io/goit-markup-hw-08/index.html) 
-
-
-
 ## Learning and Development 🏃
 I am constantly learning, keeping up with the latest trends in development and applying new knowledge in practice. Participating in developer communities and attending relevant conferences helps me stay at the forefront of technological progress.
 
